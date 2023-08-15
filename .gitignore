@@ -1,0 +1,5 @@
+dev/modules/.terraform.lock.hcl
+dev/modules/.terraform/providers/registry.terraform.io/hashicorp/aws/5.12.0/windows_amd64/terraform-provider-aws_v5.12.0_x5.exe
+dev/modules/.terraform/providers/registry.terraform.io/hashicorp/local/2.4.0/windows_amd64/terraform-provider-local_v2.4.0_x5.exe
+dev/modules/.terraform/providers/registry.terraform.io/hashicorp/tls/4.0.4/windows_amd64/terraform-provider-tls_v4.0.4_x5.exe
+dev/modules/.terraform/terraform.tfstate
